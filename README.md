@@ -18,5 +18,5 @@ Push your change to master branch
 Gourp menbers:
 * Terrence Zhou
 * liaobaoxin
-* tangmaomao 20161013
+* tangmaomao  20161013
 * ...
